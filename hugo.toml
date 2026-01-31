@@ -15,5 +15,5 @@ googleAnalytics = "G-KJ745HN44H"
     useSessionStorage = true
 
 [params]
-  [params.social]
+  [params.Social]
     twitter = "switchlyai"
