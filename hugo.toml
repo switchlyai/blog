@@ -1,8 +1,7 @@
 baseURL = "https://blog.switchly.ai/"
 languageCode = "en"
-title = "Switchly Blog"
+title = "Switchly.AI Blog"
 theme = "ananke"
 
 [permalinks]
   posts = "/:year/:month/:slug/"
-
