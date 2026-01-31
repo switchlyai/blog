@@ -13,3 +13,7 @@ googleAnalytics = "G-KJ745HN44H"
     respectDoNotTrack = true
     anonymizeIP = true
     useSessionStorage = true
+
+[params]
+  [params.social]
+    twitter = "switchlyai"
