@@ -2,6 +2,14 @@ baseURL = "https://blog.switchly.ai/"
 languageCode = "en"
 title = "Switchly.AI Blog"
 theme = "ananke"
+googleAnalytics = "G-KJ745HN44H"
 
 [permalinks]
   posts = "/:year/:month/:slug/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
+    anonymizeIP = true
+    useSessionStorage = true
