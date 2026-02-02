@@ -1,7 +1,7 @@
 +++
-date = '2026-01-31T17:32:33+01:00'
+date = '2026-01-01T17:32:33+01:00'
 draft = false
-title = 'Why I Started Switchly.ai Building a Reliable AI Receptionist for Real Phone Calls'
+title = 'Why I Started Switchly.ai: Building a Reliable AI Receptionist for Real Phone Calls'
 +++
 
 When most people think about AI in business, they think about chat. Pop-ups. Website widgets. “Ask our bot anything.”
