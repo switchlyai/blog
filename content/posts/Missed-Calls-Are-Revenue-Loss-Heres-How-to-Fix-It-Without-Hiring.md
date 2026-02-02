@@ -1,7 +1,7 @@
 +++
-date = '2026-01-31T21:37:39+01:00'
+date = '2026-01-14T21:37:39+01:00'
 draft = false
-title = 'Missed Calls Are Revenue Loss Heres How to Fix It Without Hiring'
+title = 'Missed Calls Are Revenue Loss: Heres How to Fix It Without Hiring'
 +++
 
 If you run a barbershop or salon, phone calls are usually high-intent. People don’t call “just to browse.” They call because they want availability and they want to book.
